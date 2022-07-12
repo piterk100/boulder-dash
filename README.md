@@ -20,7 +20,7 @@ Rockford moves on the board, moving to one of the four spaces adjacent to the cu
 
 You cannot enter the field with the rock, and you can only enter the field with the exit if you have collected all the diamonds.
 
-The field abandoned by Rockford goes empty. Rockford, entering the field with the diamond, takes it, and when entering the field with the ground, he "digs" it and the soil disappears.
+The field abandoned by Rockford goes empty. Rockford, entering the field with the diamond, takes it, and when entering the field with the ground, he "digs" it and the ground disappears.
 
 If there is an exit at the target space, Rockford is removed from the board. As Rockford enters a space with a stone on it, the stone is moved to the next empty space.
 

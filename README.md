@@ -37,3 +37,5 @@ Rockford's commands are represented by the characters:
 * 'd' - right
 
 In the first line of data there is a pair of positive integers 'rows', 'columns' separated by a space. The next lines contain a description of the initial, not necessarily stable, state of the board. There are 'columns' characters in each of these lines. The rest of the data are user commands.
+
+## It was a graded project for the university. I scored max points in both quality and efficiency of code.
